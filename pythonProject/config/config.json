@@ -1,0 +1,17 @@
+{
+  "snowflakeConfig":
+  {
+    "conID": "snowflake_conn",
+    "schema": "DE6",
+    "warehouse": "DE6WH",
+    "database": "DE6",
+    "role": "ACCOUNTADMIN",
+    "rawTable": "RAW_TABLE",
+    "stageTable": "STAGE_TABLE",
+    "masterTable": "MASTER_TABLE",
+    "account": "CW59779",
+    "user": "FOREVER",
+    "password": "1x6g27c0wgd843E",
+    "csvPath": "/home/vlad/Desktop/DE6/pythonProject/csvData/763K_plus_IOS_Apps_Info.csv"
+  }
+}
